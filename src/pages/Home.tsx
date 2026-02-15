@@ -82,8 +82,8 @@ const Home = () => {
               <p className="text-xs text-muted-foreground">9.0 km</p>
             </div>
             <div className="flex items-center gap-2 mt-1">
-              <Clock size={14} className="text-primary" />
-              <p className="text-xs text-primary font-medium">Fechado</p>
+             <Clock size={14} className="text-green-600" />
+<p className="text-xs text-green-600 font-medium">Aberto</p>
             </div>
           </div>
           <ChevronRight size={20} className="text-muted-foreground mt-2" />
