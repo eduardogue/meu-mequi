@@ -23,8 +23,8 @@ export interface Product {
 }
 
 export const products: Product[] = [
-  { id: 1, name: "Molho Barbecue", points: 4000, category: "6000", description: "Escolha seu molho favorito para se deliciar com os chicken McNuggets, ou se preferir, com as deliciosas e crocantes McFritas", image: molhoBarbecue },
-  { id: 2, name: "Molho Ranch", points: 4000, category: "6000", description: "Molho cremoso Ranch perfeito para acompanhar seus McNuggets ou McFritas", image: molhoRanch },
+  { id: 1, name: "Top Sundae Chocolate", points: 4000, category: "6000", description: "Escolha seu molho favorito para se deliciar com os chicken McNuggets, ou se preferir, com as deliciosas e crocantes McFritas", image: molhoBarbecue },
+  { id: 2, name: "McFlurry M&M's chocolate", points: 4000, category: "6000", description: "Molho cremoso Ranch perfeito para acompanhar seus McNuggets ou McFritas", image: molhoRanch },
   { id: 3, name: "McFlurry Trufa Língua de Gato", points: 4000, category: "6000", description: "Molho Caipira com sabor especial para seus acompanhamentos favoritos", image: molhoCaipira },
   { id: 4, name: "McColosso Super Chocolate", points: 3000, category: "6000", description: "A clássica casquinha McDonald's com chocolate cremoso e delicioso", image: casquinha },
   { id: 5, name: "Sundae", points: 5000, category: "6000", description: "Sundae cremoso com calda à sua escolha", image: sundae },
