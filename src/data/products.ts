@@ -31,7 +31,12 @@ export const products: Product[] = [
   { id: 6, name: "Cappuccino 200ml", points: 12000, category: "18000", description: "Cappuccino quentinho de 200ml para aquecer seu dia", image: cappuccino },
   { id: 7, name: "McColosso Calda de Chocolate", points: 13000, category: "18000", description: "McColosso com calda de chocolate irresistível", image: mccolossoChocolate },
   { id: 8, name: "McColosso Caramelo", points: 13000, category: "18000", description: "McColosso com calda de caramelo cremoso", image: mccolossoCaramelo },
- 
+  { id: 9, name: "McFlurry Ovomaltime Rocks", points: 14000, category: "18000", description: "McFlurry com pedaços crocantes de Ovomaltime Rocks e calda de chocolate", image: mcflurry },
+  { id: 10, name: "Big Mac", points: 15000, category: "25000", description: "O hambúrguer mais famoso do mundo com dois andares", image: bigMac },
+  { id: 11, name: "Duplo Cheddar McMelt", points: 18000, category: "25000", description: "Dois hambúrgueres com cheddar derretido e pão escuro com gergelim", image: quarterao },
+  { id: 12, name: "McOferta Big Mac", points: 25000, category: "25000", description: "McOferta completa com Big Mac, batata e bebida", image: mcofertaBigmac },
+  { id: 13, name: "Brabíssimo Carne", points: 30000, category: "45000", description: "O sanduíche Brabíssimo com carne suculenta, queijo, bacon e molho especial", image: bigTasty },
+  { id: 14, name: "McOferta Quarter", points: 40000, category: "45000", description: "McOferta completa com Quarterão, batata e bebida", image: mcofertaQuarter },
 ];
 
 export const categories = ["Até 6.000 pts", "Até 18.000 pts", "Até 25.000 pts", "Até 45.000 pts"];
